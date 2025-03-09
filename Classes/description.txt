@@ -1,0 +1,32 @@
+Sir! Yes Sir!
+
+Are you ready to fight the Zombie invasion? Sir! Yes Sir! Do you have all your weapons with you? Sir! Yes Sir! So why are you still standing there? Go! Go! Go!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Soldier Goat: You can use GoatZ weapons everywhere and with unlimited ammo.
+
+[b]COMMANDS[/b]
+- [b][Ctrl]:[/b] Change weapon.
+- [b][LeftClick]:[/b] Fire.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][DPadDown]:[/b] Change weapon.
+- [b][RT]:[/b] Fire.
+
+[b]CHARACTERISTICS[/b]
+- The name of the selected weapon is displayed when you change.
+- Weapons do damage to any creature and break/explode objects.
+- Your weapons have unlimited ammo.
+- You can only switch weapon if you are not ragdoll (for compatibility).
+- If a Survivor try to steal your weapon in GoatZ, he will get a normal copy of the weapon instead.
+
+[b]KNOWN BUGS[/b]
+- Some weapon visual effects are not visible on animals, only on humans.
+- Weapons have no effect on ragdolls.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]That was a quite easy mod compared to the previous two :) Mainly because the devs already made a variable to make infinite ammo on their weapons XD
+Anyway I still had some work to do in order to have all the weapon effects working on any creature (not jsut on GoatZ creatures). I also had to rework part of the weapon attachment code and some stuff in the firing mechanism... But nothing too hard in the end, I could complete it in a single afternoon ^^
+[/quote]
